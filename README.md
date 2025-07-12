@@ -23,6 +23,8 @@ This is a modern, responsive Teacher Dashboard built with **Next.js 14**, **Type
 🎥 **Demo Walkthrough Video**:  
 [Loom Video Walkthrough](https://www.loom.com/share/7043094fb6434aa59b9930ff5b16ecb1?sid=e7ecdf74-9c44-45e8-af4b-018318236bb3)
 
+🌐 **Live Demo**: [View Deployed App on Netlify](https://your-netlify-site.netlify.app)
+
 🛠️ Features:
 - Add, Edit, Delete Teachers
 - Dashboard with Top Performers and Recent Activity
