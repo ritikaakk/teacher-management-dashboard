@@ -16,6 +16,21 @@ A modern, responsive Teacher Management Interface built using **Next.js**, **Typ
 - Tailwind CSS
 - Git & GitHub
 
+# Teacher Management Interface
+
+This is a modern, responsive Teacher Dashboard built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**.
+
+🎥 **Demo Walkthrough Video**:  
+[Loom Video Walkthrough](https://www.loom.com/share/7043094fb6434aa59b9930ff5b16ecb1?sid=e7ecdf74-9c44-45e8-af4b-018318236bb3)
+
+🛠️ Features:
+- Add, Edit, Delete Teachers
+- Dashboard with Top Performers and Recent Activity
+- Real-time validation
+- Fully responsive layout
+- Sidebar navigation
+
+
 ## 📦 How to Run Locally
 
 ```bash
